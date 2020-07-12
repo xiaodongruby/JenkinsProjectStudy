@@ -1,24 +1,24 @@
 class TestHello:
 
-    def test01(self):
+    def test_01(self):
         assert 1
 
-    def test02(self):
+    def test_02(self):
         assert 1
 
-    def test03(self):
+    def test_03(self):
         assert 1
 
-    def test04(self):
+    def test_04(self):
         assert 1
 
-    def test05(self):
+    def test_05(self):
         assert 1
 
-    def test06(self):
+    def test_06(self):
         assert 1
 
-    def test07(self):
+    def test_07(self):
         assert 1
 
 
